@@ -49,17 +49,8 @@ $result = $conexao->query($sql);
                                 echo "<td>".$produto_data['preco']."</td>";
                                 echo "<td>".$produto_data['tipo']."</td>";
                                 echo "<td>
-                                    <a class='btn btn-sm btn-primary' href='edit_produtos_usuario.php?id=$produto_data[id]'>
-                                    <span class='glyphicon glyphicon-pencil' aria-hidden='true'></span> Editar</a>
-                                    
-                                
+                                    <a class='btn btn-success'>Comprar</a>
                                 </td>";
-                                echo "<td>
-                                <a class='btn btn-sm btn-danger' href='delete_produtos_usuario.php?id=$produto_data[id]'>
-                                <span class='glyphicon glyphicon-trash' aria-hidden='true'></span> Deletar</a>
-                                
-                            
-                            </td>";
                                 echo "</tr>";
                             }
                         ?>
