@@ -5,4 +5,5 @@ OBS: Lembrando que o xampp precisa ser instalado e iniciado para poder iniciar o
 
 Link para baixar o xampp: https://www.apachefriends.org/download.html
 
-![Xampp logo]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.veridyen.com/blog/wp-content/uploads/2021/07/veridyen-blog-1200px-xampp-logo-svg-1010x1024.png)https://www.veridyen.com/blog/wp-content/uploads/2021/07/veridyen-blog-1200px-xampp-logo-svg-1010x1024.png)
+
+![xampp-logo-png-transparent](https://github.com/DiogoMoreiradev/Projeto_CRUDcompleto/assets/119602297/6ec03eee-8e06-4cbd-a5fd-122168d71a0b)
